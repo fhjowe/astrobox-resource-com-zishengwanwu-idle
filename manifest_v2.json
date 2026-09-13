@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "com.zishengwanwu.idle",
+    "restype": "quick_app",
+    "name": "字生万物",
+    "description": "小米手环10上的国风文字主题放置增量游戏。以传抄、刊印、成书、入库、传世、无尽六层成长为主线，支持离线收益、学派、试炼、雅集、奇遇与收藏。激活码下载破200公布，可以自己破解，穷举，但不要分享，如果遇到问题进到杂项-维护-gm菜单-完整拍照发送，如图2",
+    "preview": [
+      "media/字生万物.png",
+      "media/2.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/icon_240x160.png",
+    "author": [
+      {
+        "name": "hjjhgvg99",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "2.3.2",
+      "file_name": "downloads/com.zishengwanwu.idle.release.2.3.2.rpk"
+    },
+    "xmb10nfc": {
+      "version": "2.3.2",
+      "file_name": "downloads/com.zishengwanwu.idle.release.2.3.2.rpk"
+    }
+  },
+  "ext": {}
+}
